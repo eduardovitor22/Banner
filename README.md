@@ -25,7 +25,6 @@ ferramentas para contribuir com a transformação digital!
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
 * **Acidente de trânsito em são Paulo:** https://bit.ly/3mI5HmT
 * **Seleção de recursos:** https://bit.ly/3QhDnFz
