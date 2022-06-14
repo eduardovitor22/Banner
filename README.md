@@ -26,7 +26,7 @@ ferramentas para contribuir com a transformação digital!
 
 ## Projetos:
 
-* **Acidente de trânsito em são Paulo:** https://bit.ly/3mI5HmT
-* **Seleção de recursos:** https://bit.ly/3QhDnFz
-* **Mall Customers média:** https://bit.ly/3mLPuNA
-* **Analisando a Violência no Rio de Janeiro:** https://bit.ly/3OeNCsE
+* **Acidente de trânsito em são Paulo:** https://bit.ly/3Ow4jjt
+* **Seleção de recursos:** https://bit.ly/3tBi8EW
+* **Mall Customers média:** https://bit.ly/3HoQelb
+* **Analisando a Violência no Rio de Janeiro:** https://bit.ly/3b1lKd8
