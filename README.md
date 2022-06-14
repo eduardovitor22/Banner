@@ -26,6 +26,7 @@ ferramentas para contribuir com a transformação digital!
 
 ## Projetos:
 
+* **Avaliação de Risco de Crédito(Nubank):** https://bit.ly/39m0Vsg
 * **Acidente de trânsito em são Paulo:** https://bit.ly/3Ow4jjt
 * **Seleção de recursos:** https://bit.ly/3tBi8EW
 * **Mall Customers média:** https://bit.ly/3HoQelb
