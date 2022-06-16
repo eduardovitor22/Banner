@@ -1,5 +1,5 @@
 
-# Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas | PYTHON | DATA SCIENCE
+# Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas | PYTHON | DATA SCIENCE | SQL
 
 <p align="center">
   <img src="banner.png" >
