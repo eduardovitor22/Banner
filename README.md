@@ -6,7 +6,7 @@
 </p>
 
 # Eduardo Vitor
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+
 
 Atualmente estou iniciando meus estudos no Data Science e
 futuramente esta resolvendo problemas para empresas por meio de
